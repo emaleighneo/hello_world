@@ -1,2 +1,2 @@
-# hello_world
+# My name is Emaleigh
 Class Prep
